@@ -1,1 +1,1 @@
-This is a repo for learning git
+This is pretty difficult to understand.
